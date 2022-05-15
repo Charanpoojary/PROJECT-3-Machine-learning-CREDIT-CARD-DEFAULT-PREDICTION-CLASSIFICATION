@@ -108,6 +108,9 @@ image
 
 
 
+
+
+
 Age (year) It might be useful to see whether the gender of the customer is in any way related to his/her probability of default. From the above graphs we can say that most of the customers are from the age group of 25-30 years.
 
 CORRELATIONS:
