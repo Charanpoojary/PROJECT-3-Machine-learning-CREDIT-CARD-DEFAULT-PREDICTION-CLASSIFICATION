@@ -1,18 +1,5 @@
 # CREDIT-CARD-DEFAULT-PREDICTION-CLASSIFICATION
-Table of Contents
 
-         Abstract
- Problem statement
- Introduction
- Understanding the Problem Statement
- Data Pre-processing
- Preparing Data for Exploratory Data Analysis (EDA)
- Exploratory Data Analysis 
- Feature Engineering
- Training the models
- Evaluating the model
-Conclusion
-Abstract: Aiming at the problem that the credit card default data of a financial institution is unbalanced, which leads to unsatisfactory prediction results, this project proposes a prediction model based on various supervised, classification algorithms. It mostly focuses on enhancing the classifier performance for credit card default prediction. Different machine learning models are also employed to obtain efficient results. We developed the hypothesis of whether developed models using different machine learning techniques are significantly the same or different and whether resampling techniques significantly improves the performance of the proposed models. One-way Analysis of Variance is a hypothesis-testing technique, used to test the significance of the results. The split method is utilized to validate the results in which data has split into training and test sets. The results using our proposed methods significantly improve the accuracy of Taiwan clients credit dataset.
 
 1.** Problem Statement ** This project is aimed at predicting the case of customers' default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. We have to evaluate which customers will default on their credit card payments. Financial threats are displaying a trend about the credit risk of commercial banks as the incredible improvement in the financial industry has arisen. In this way, one of the biggest threats faced by commercial banks is the risk prediction of credit clients. To analyze and predict the above given database, the current project is developed. This project is an attempt to identify credit card customers who are more likely to default in the coming month
 
